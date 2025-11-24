@@ -87,9 +87,9 @@ These teams reflect long-term squad development and stronger reliance on emergin
 
 The total squad valuation for the 2023/24 Liga 1 season sits at approximately **Rp1 trillion**, positioning the league as a competitively valued football ecosystem within Southeast Asia. The value breakdown shows a distinct structure:
 
-- Total Value of Local Players: Rp 798 billion 
-- Total Value of Foreign Players: Rp 416 billion 
-- Average Market Value per Club: Rp 2 billion+
+- **Total Value of Local Players: Rp 798 billion**
+- **Total Value of Foreign Players: Rp 416 billion** 
+- **Average Market Value per Club: Rp 2 billion+**
 
 Despite foreign players representing only **18.84%** of the total player population, they contribute a disproportionately high share of total valuation. This indicates that clubs rely on foreign signings as **high-impact assets**, expected to provide immediate influence—both on performance and commercial leverage.
 
