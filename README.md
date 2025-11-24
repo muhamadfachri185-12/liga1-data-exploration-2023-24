@@ -32,9 +32,9 @@ Nationality distribution shows strong dominance of local athletes, with **461 In
 
 Player composition by role indicates a balanced tactical ecosystem:
 
-- 🧠 **Midfielders**: 181 players (31.69%)  
-- 🛡️ **Defenders**: 162 players (28.52%)  
-- 🎯 **Attackers**: 153 players (26.93%)  
+- 🧠 **Midfielders**: 162 players (28.52%)  
+- 🛡️ **Defenders**: 180 players (31.69%)  
+- 🎯 **Attackers**: 154 players (27.11%)  
 - 🧤 **Goalkeepers**: 72 players (12.68%)
 
 The higher proportion of midfielders suggests a tactical preference toward possession transitions and versatility within formations used across the league.
@@ -59,9 +59,9 @@ The highest team market values:
 
 | Rank | Club | Market Value |
 |------|------|--------------|
-| 1️⃣ | Persib Bandung | **Rp 88B+** |
-| 2️⃣ | Bali United FC | **Rp 88B+** |
-| 3️⃣ | Dewa United FC | **Rp 88B+** |
+| 1️⃣ | Persib Bandung | **Rp 93bln** |
+| 2️⃣ | Bali United FC | **Rp 85bln** |
+| 3️⃣ | Dewa United FC | **Rp 84bln** |
 
 This indicates financial strength, foreign player concentration, and potentially higher squad competitiveness.
 
