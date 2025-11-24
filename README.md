@@ -20,7 +20,9 @@ The visualizations are intended to make the data more accessible, insightful, an
 <p>liga1 2023-24 dataset ERD</p>
 
 <h1>Insight & Deep Dive</h1>
-<h3> 🔍 Player Demographics Overview </h3>
+<h2> 🔍 Player Demographics Overview </h2>
+
+<h3>Summary Squad</h3>
 
 Liga 1 features a total of **568 registered players** for the 2023/24 season. The average age is **25.89 years**, showing a balance between young talent and experienced players. Meanwhile, the average height is **1.76 meters**, reflecting a physically balanced league comparable to other Southeast Asian competitions.
 
@@ -77,7 +79,7 @@ These teams reflect long-term squad development and stronger reliance on emergin
 <br><br>
 
 <p align="center">
-  <img width="866" height="576" alt="image" src="https://github.com/user-attachments/assets/c1743695-d868-491d-b852-254edd1e62b3" />
+  <img width="921" height="411" alt="image" src="https://github.com/user-attachments/assets/4c76ec77-e446-4586-81f4-3b4a6ad12114" />
 </p>
 
-
+<h2> 🔍 Player Demographics Overview </h2>
