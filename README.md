@@ -19,5 +19,58 @@ The visualizations are intended to make the data more accessible, insightful, an
 
 <p>liga1 2023-24 dataset ERD</p>
 
-<h2>Insight & Deep Dive</h2>
-<h3>Sales Trends and Growth Rates</h3>
+<h1>Insight & Deep Dive</h1>
+<h3> 🔍 Player Demographics Overview </h3>
+
+Liga 1 features a total of **568 registered players** for the 2023/24 season. The average age is **25.89 years**, showing a balance between young talent and experienced players. Meanwhile, the average height is **1.76 meters**, reflecting a physically balanced league comparable to other Southeast Asian competitions.
+
+Nationality distribution shows strong dominance of local athletes, with **461 Indonesian players**, accounting for more than 80% of the league population. International recruitment is led by players from **Brazil (31 players)** followed by smaller groups from Japan, Europe, Africa, and Southeast Asia — showing that scouting pipelines remain focused on South American and Asian markets.
+
+---
+
+<h3>⚽ Squad Structure by Position</h3>
+
+Player composition by role indicates a balanced tactical ecosystem:
+
+- 🧠 **Midfielders**: 181 players (31.69%)  
+- 🛡️ **Defenders**: 162 players (28.52%)  
+- 🎯 **Attackers**: 153 players (26.93%)  
+- 🧤 **Goalkeepers**: 72 players (12.68%)
+
+The higher proportion of midfielders suggests a tactical preference toward possession transitions and versatility within formations used across the league.
+
+---
+
+<h2> 🏟️ Club-Level Comparison </h2>
+
+<h3>📌 Height Ranking</h3>
+The tallest squads:
+
+| Rank | Club | Avg. Height |
+|------|------|-------------|
+| 1️⃣ | PSM Makassar | **1.78 m** |
+| 2️⃣ | Persib Bandung | **1.77 m** |
+| 3️⃣ | Dewa United FC | **1.77 m** |
+
+These clubs likely benefit from aerial duels, set-piece efficiency, and physical matchups.
+
+<h3>💰 Market Value Leaders</h3>
+The highest team market values:
+
+| Rank | Club | Market Value |
+|------|------|--------------|
+| 1️⃣ | Persib Bandung | **Rp 88B+** |
+| 2️⃣ | Bali United FC | **Rp 88B+** |
+| 3️⃣ | Dewa United FC | **Rp 88B+** |
+
+This indicates financial strength, foreign player concentration, and potentially higher squad competitiveness.
+
+<h3>👶 Youngest Squads by Average Age</h3>
+
+| Club | Avg. Age |
+|-------|----------|
+| PSM Makassar | **24.53** |
+| PSIS Semarang | **24.45** |
+| Persebaya Surabaya | **24.34** |
+
+These teams reflect long-term squad development and stronger reliance on emerging domestic talent.
