@@ -19,6 +19,5 @@ The visualizations are intended to make the data more accessible, insightful, an
 
 <p>liga1 2023-24 dataset ERD</p>
 
-<br><br>
 <h2>Insight & Deep Dive</h2>
 <h3>Sales Trends and Growth Rates</h3>
