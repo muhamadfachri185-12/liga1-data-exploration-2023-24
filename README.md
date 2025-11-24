@@ -103,4 +103,83 @@ This pattern suggests a **targeted recruitment strategy**, where Liga 1 clubs pr
   <img width="810" height="410" alt="image" src="https://github.com/user-attachments/assets/6ff23059-103c-4e9b-924c-9ccf9c8b0293" />
 </p>
 
+## 📌 Data Snapshot Extracted from Dashboard
+
+### 💰 Market Value Rankings
+
+| Category | Top Player | Value |
+|---------|------------|-------|
+| **Top Local Market Value** | Marc Klok | **Rp 27.8bn** |
+| **Top Foreign Market Value** | Nick Kuipers | **Rp 26.8bn** |
+| **Top Market Value Overall** | Marc Klok | **Rp 27.8bn** |
+
+---
+
+### 👤 Physical & Age Profile
+
+| Category | Player | Attribute |
+|---------|--------|-----------|
+| **Tallest Player** | Nick Kuipers | **1.93m** |
+| **Second Tallest** | Alberto Rodríguez | **1.91m** |
+| **Shortest Player** | Arsan Makarim | *(implied)* |
+| **Youngest Player** | Ridwan Ansori | *(from panel)* |
+| **Oldest Player** | Victor Igbonefo | **38 years** |
+| **Avg. Age (Displayed)** | — | **27.45 years** |
+
+---
+
+## 🧠 Insight & Deep Dive
+
+### 📈 Market Value Landscape & Competitive Signals
+
+The Liga 1 player market exhibits a clear valuation hierarchy. **Marc Klok leads both overall and local categories**, signaling the strong positioning of domestically-integrated talent. Meanwhile, **Nick Kuipers dominates the foreign category**, reflecting the high valuation placed on experienced international signings, particularly in central defensive roles.
+
+The pattern suggests Liga 1 clubs value:
+
+- midfield control and tactical stability,
+- strong defensive leadership,
+- hybrid roles rather than purely attacking star power.
+
+This marks an evolution from traditional striker-focused valuation seen in earlier seasons.
+
+---
+
+### 🇮🇩 Local vs. Foreign Value Dynamics
+
+While foreign players still command high valuations, the gap is narrowing. The presence of a local player at the top of the value ranking indicates:
+
+- shifting club spending strategies,
+- improved domestic player development,
+- growing trust in long-term Liga-based talent.
+
+Foreign players remain key differentiators, but no longer exclusively dominate valuation peaks.
+
+---
+
+### 📏 Physical Profile & Tactical Correlation
+
+The tallest players—primarily defenders—signal a recruitment emphasis on:
+
+- aerial duel capacity,  
+- set-piece strength,  
+- controlled defensive structure.
+
+The contrasting presence of shorter attacking players shows Liga 1 supports a **balanced player ecosystem**, where technical agility and creativity complement physical dominance.
+
+---
+
+### ⏳ Age Trends & Career Stage Observations
+
+The age distribution highlights an interesting curve:
+
+- Veteran defenders (e.g., **Igbonefo, Jufriyanto**) remain highly valued for leadership and tactical discipline.
+- Younger talents (e.g., **Ridwan Ansori**) are emerging, though not yet dominating valuation metrics.
+- An overall **average age of ~27.45 years** positions Liga 1 in a competitive maturity phase — neither too youthful nor aging.
+
+This blend reflects a league transitioning toward structured succession planning.
+
+<p align="center">
+  <img width="823" height="414" alt="image" src="https://github.com/user-attachments/assets/68281e00-f077-48ea-b8d1-04bbf8764e1d" />
+</p>
+
 
