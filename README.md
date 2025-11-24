@@ -98,3 +98,8 @@ Despite foreign players representing only **18.84%** of the total player populat
 Player origin data reinforces local dominance, with **461 Indonesian players** forming the backbone of the league. Brazil leads the foreign presence with **31 players**, followed by smaller talent clusters from Japan, Europe, Africa, and Southeast Asia.
 
 This pattern suggests a **targeted recruitment strategy**, where Liga 1 clubs prioritize quality over quantity when signing foreign talent. The recruitment approach appears similar to other developing leagues: a limited number of foreign signings, but strategically placed in key roles such as striker, attacking midfielder, or defensive anchor.
+<p align="center">
+  <img width="810" height="410" alt="image" src="https://github.com/user-attachments/assets/6ff23059-103c-4e9b-924c-9ccf9c8b0293" />
+</p>
+
+
