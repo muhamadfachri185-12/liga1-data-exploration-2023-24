@@ -74,3 +74,10 @@ This indicates financial strength, foreign player concentration, and potentially
 | Persebaya Surabaya | **24.34** |
 
 These teams reflect long-term squad development and stronger reliance on emerging domestic talent.
+<br><br>
+
+<p align="center">
+  <img width="866" height="576" alt="image" src="https://github.com/user-attachments/assets/c1743695-d868-491d-b852-254edd1e62b3" />
+</p>
+
+
