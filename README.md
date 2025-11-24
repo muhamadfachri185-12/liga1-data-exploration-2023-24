@@ -20,7 +20,7 @@ The visualizations are intended to make the data more accessible, insightful, an
 <p>liga1 2023-24 dataset ERD</p>
 
 <h1>Insight & Deep Dive</h1>
-<h2> 🔍 Player Demographics Overview </h2>
+<h2> 🔍 Players & Clubs Demographics Overview </h2>
 
 <h3>Summary Squad</h3>
 
@@ -82,4 +82,19 @@ These teams reflect long-term squad development and stronger reliance on emergin
   <img width="921" height="411" alt="image" src="https://github.com/user-attachments/assets/4c76ec77-e446-4586-81f4-3b4a6ad12114" />
 </p>
 
-<h2> 🔍 Player Demographics Overview </h2>
+<h2> 🔍 Club Value </h2>
+<h3>🧮 Overall Market Structure</h3>
+
+The total squad valuation for the 2023/24 Liga 1 season sits at approximately **Rp1 trillion**, positioning the league as a competitively valued football ecosystem within Southeast Asia. The value breakdown shows a distinct structure:
+
+- Total Value of Local Players: Rp 798 billion 
+- Total Value of Foreign Players: Rp 416 billion 
+- Average Market Value per Club: Rp 2 billion+
+
+Despite foreign players representing only **18.84%** of the total player population, they contribute a disproportionately high share of total valuation. This indicates that clubs rely on foreign signings as **high-impact assets**, expected to provide immediate influence—both on performance and commercial leverage.
+
+<h3>🌍 Origin Distribution & Talent Strategy</h3>
+
+Player origin data reinforces local dominance, with **461 Indonesian players** forming the backbone of the league. Brazil leads the foreign presence with **31 players**, followed by smaller talent clusters from Japan, Europe, Africa, and Southeast Asia.
+
+This pattern suggests a **targeted recruitment strategy**, where Liga 1 clubs prioritize quality over quantity when signing foreign talent. The recruitment approach appears similar to other developing leagues: a limited number of foreign signings, but strategically placed in key roles such as striker, attacking midfielder, or defensive anchor.
