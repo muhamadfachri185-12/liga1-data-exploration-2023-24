@@ -82,6 +82,7 @@ These teams reflect long-term squad development and stronger reliance on emergin
   <img width="921" height="411" alt="image" src="https://github.com/user-attachments/assets/4c76ec77-e446-4586-81f4-3b4a6ad12114" />
 </p>
 
+
 <h2> 🔍 Club Value </h2>
 <h3>🧮 Overall Market Structure</h3>
 
